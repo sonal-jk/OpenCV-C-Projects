@@ -1,0 +1,3 @@
+/home/sonal/Documents/OpenCV-Cpp-Projects/Face_Detection/CMakeFiles/face-detection.dir
+/home/sonal/Documents/OpenCV-Cpp-Projects/Face_Detection/CMakeFiles/edit_cache.dir
+/home/sonal/Documents/OpenCV-Cpp-Projects/Face_Detection/CMakeFiles/rebuild_cache.dir
