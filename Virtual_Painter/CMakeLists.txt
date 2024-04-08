@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 2.8)
+project( Virtual_Painter )
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( virtual-painter virtual-painter.cpp )
+# add_executable( color-picker color-picker.cpp )
+target_link_libraries(virtual-painter ${OpenCV_LIBS} )
+# target_link_libraries(color-picker ${OpenCV_LIBS} )

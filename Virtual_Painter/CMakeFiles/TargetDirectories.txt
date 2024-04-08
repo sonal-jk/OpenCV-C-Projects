@@ -1,0 +1,3 @@
+/home/sonal/Documents/OpenCV-Cpp-Projects/Virtual_Painter/CMakeFiles/virtual-painter.dir
+/home/sonal/Documents/OpenCV-Cpp-Projects/Virtual_Painter/CMakeFiles/edit_cache.dir
+/home/sonal/Documents/OpenCV-Cpp-Projects/Virtual_Painter/CMakeFiles/rebuild_cache.dir
